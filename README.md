@@ -16,9 +16,16 @@
 
 ### 💼 Experience
 
+
+#### **Inside Roleplay (insideroleplay.com.br)**
+**Role:** Head of Development  
+**Period:** Jan 2026 - Actual
+- Developing core systems and managing server infrastructure using **Pawn**.
+- I also contribute financially and provide support to the administrative team; in the current project scenario, I have always remained active.
+
 #### **Nacional Player (npsamp.com.br)**
 **Role:** Scripter (System Developer)  
-**Period:** Feb 2024 – Actual
+**Period:** Feb 2024 – 2026
 - Developing core systems and managing server infrastructure using **Pawn**.
 - I also contribute financially and provide support to the administrative team; in the current project scenario, I have always remained active.
 
